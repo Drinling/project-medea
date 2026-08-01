@@ -1,3 +1,10 @@
 [gd_scene format=3 uid="uid://cafk83jhg6xok"]
 
+[ext_resource type="Texture2D" uid="uid://b54ge5ndsuncy" path="res://Assets/Placeholders/PLACEHOLDER_Background.jpg" id="1_jjgbg"]
+
 [node name="Main" type="Node2D" unique_id=483758593]
+
+[node name="BackgroundImage" type="Sprite2D" parent="." unique_id=2141606444]
+position = Vector2(592, 407)
+scale = Vector2(0.71703297, 0.71703297)
+texture = ExtResource("1_jjgbg")
