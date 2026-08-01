@@ -5,6 +5,6 @@
 [node name="Main" type="Node2D" unique_id=483758593]
 
 [node name="BackgroundImage" type="Sprite2D" parent="." unique_id=2141606444]
-position = Vector2(592, 407)
-scale = Vector2(0.71703297, 0.71703297)
+position = Vector2(579.5, 331.50003)
+scale = Vector2(0.5708008, 0.4989011)
 texture = ExtResource("1_jjgbg")
